@@ -7,6 +7,10 @@ function sayHallo (firstName) {
 console.log(`Hallo ${firstName}`)
 }
  */
+/* const myName ="cat";
+function sayHallo (myName) {
+    console.log(`Hallo ${firstName}`)
+    } */
 
 
 /* Øvelse 2a */
